@@ -1,0 +1,33 @@
+
+        h1{
+            color:red;
+        }
+        p{
+            color:blue;
+        }
+        .select{
+            color:aquamarine;
+        }
+        .item{
+            color:chartreuse;
+        }
+        .header{
+            background-color: brown;
+        }
+        li.select{
+            width: 200px;
+            background-color:chocolate;
+        }
+        input[type="text"]{background: red;
+
+        }
+        input[type="password"]{
+            background-color: antiquewhite;
+        }
+        #header> h1{background-color: antiquewhite;
+
+        }
+        #section> h1{
+            background-color: aqua;
+
+        }
